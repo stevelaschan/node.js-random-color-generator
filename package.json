@@ -1,0 +1,8 @@
+{
+  "name": "node.js-random-color-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stevelaschan/node.js-random-color-generator.git",
+  "author": "Stefan Laschan <st.laschan@gmail.com>",
+  "license": "MIT"
+}
